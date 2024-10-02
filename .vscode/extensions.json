@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.debugpy",
+        "humao.rest-client",
+        "mtxr.sqltools-driver-pg",
+        "ms-azuretools.vscode-docker",
+        "mtxr.sqltools"
+    ]
+}

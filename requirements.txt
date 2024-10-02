@@ -1,0 +1,7 @@
+Flask
+PyJWT
+Werkzeug
+SQLAlchemy
+flask_sqlalchemy
+python-dotenv
+psycopg2

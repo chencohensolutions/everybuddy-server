@@ -1,0 +1,3 @@
+GET http://localhost:5000/protected HTTP/1.1
+content-type: application/json
+x-access-tokens: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImhlbmNvaGVuODNAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNjY5NDYyNzUzLCJleHAiOjE2NzIwNTQ3NTN9.0LlJZza312xQq_Pr-DXw0kKdmccHUgp8S75banxgDaE
