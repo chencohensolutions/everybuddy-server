@@ -4,13 +4,6 @@
 			"path": "."
 		},
 		{
-			"path": "../everybuddy-client-flutter"
-		},
-		{
-			"name": "everybuddy-client-react-native",
-			"path": "../everybuddy-client-react-native"
-		},
-		{
 			"path": "../everybuddy-client-android"
 		}
 	]
